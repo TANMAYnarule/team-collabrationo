@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="inside.css">
+</head>
+
+<body>
+    <div class="maincontianer">
+        <div class="secondcontainer">
+            <header>
+                <div class="img">
+                    <a href="#">
+                        <img width="200" src="https://watchanimeworld.in/wp-content/uploads/AWI-SiteTitle-1.png"
+                            class="custom-logo"
+                            alt="Anime World India – Best Source For Hindi, Tamil, Telugu Anime &amp; Cartoons – Anime World India"
+                            decoding="async"
+                            srcset="https://watchanimeworld.in/wp-content/uploads/AWI-SiteTitle-1.png 2000w, https://watchanimeworld.in/wp-content/uploads/AWI-SiteTitle-1-300x90.png 300w, https://watchanimeworld.in/wp-content/uploads/AWI-SiteTitle-1-1024x307.png 1024w, https://watchanimeworld.in/wp-content/uploads/AWI-SiteTitle-1-193x58.png 193w, https://watchanimeworld.in/wp-content/uploads/AWI-SiteTitle-1-768x230.png 768w, https://watchanimeworld.in/wp-content/uploads/AWI-SiteTitle-1-1536x461.png 1536w"
+                            sizes="(max-width: 2000px) 100vw, 2000px">
+                    </a>
+                </div>
+                <div class="form">
+                    <form action="#">
+                        <input type="search" name="" id="">
+                        <button>S</button>
+                    </form>
+                </div>
+            </header>
+            <section class="videobox">
+                <aside class="video">
+                    <div class="video">
+                        <div class="moviename"> Super Robot Monkey Team Hyperforce Go </div>
+                        <iframe src="https://drive.google.com/file/d/1EoJGtR-HR5k_C42A96OwXZqQ-Eq3GMZt/preview"
+                            width="675" height="380" allow="autoplay" allowfullscreen>
+                        </iframe>
+                    </div>
+                </aside>
+
+
+                <aside class="video-option">
+
+                </aside>
+            </section>
+            <section class="secondsection">
+                <header>
+                    <div class="morelikethis">
+                        <h3 class="section-title">Recommended Series</h3>
+                    </div>
+                </header>
+
+                <select name="" id="">
+                    <option value="">Sesone 1</option>
+                    <option value="">Sesone 2</option>
+                    <option value="">Sesone 3</option>
+                    <option value="">Sesone 4</option>
+                </select>
+                <div class="recomded-section">
+
+                    <div class="box">1</div>
+                    <div class="box">2</div>
+                    <div class="box">3</div>
+                    <div class="box">4</div>
+                    <div class="box">5</div>
+                    <div class="box">6</div>
+                    <div class="box">7</div>
+                    <div class="box">8</div>
+                    <div class="box">9</div>
+                    <div class="box">10</div>
+                    <div class="box">11</div>
+                    <div class="box">12</div>
+                    <div class="box">13</div>
+                    <div class="box">14</div>
+                    <div class="box">15</div>
+                    <div class="box">16</div>
+                    <div class="box">17</div>
+                    <div class="box">18</div>
+                    <div class="box">19</div>
+                    <div class="box">20</div>
+                    <div class="box">21</div>
+                    <div class="box">22</div>
+                    <div class="box">23</div>
+                    <div class="box">24</div>
+                    <div class="box">25</div>
+                    <div class="box">26</div>
+                    <div class="box">27</div>
+                    <div class="box">28</div>
+                    <div class="box">29</div>
+                    <div class="box">30</div>
+                    <div class="box">31</div>
+                    <div class="box">32</div>
+                    <div class="box">33</div>
+                    <div class="box">34</div>
+                    <div class="box">35</div>
+                    <div class="box">36</div>
+                    <div class="box">37</div>
+                    <div class="box">38</div>
+                    <div class="box">39</div>
+                    <div class="box">40</div>
+
+
+                    <!-- <div class="movieblock"><a href="#">
+                            <img src="../image/squeedgame.jpg" alt=""></a>
+                    </div>
+                    <div class="movieblock"><a href="#">
+                            <img src="../image/squeedgame.jpg" alt=""></a>
+                    </div>
+                    <div class="movieblock"><a href="#">
+                            <img src="../image/squeedgame.jpg" alt=""></a>
+                    </div>
+                    <div class="movieblock"><a href="#">
+                            <img src="../image/squeedgame.jpg" alt=""></a>
+                    </div>
+                    <div class="movieblock"><a href="#">
+                            <img src="../image/squeedgame.jpg" alt=""></a>
+                    </div>
+                    <div class="movieblock"><a href="#">
+                            <img src="../image/squeedgame.jpg" alt=""></a>
+                    </div> -->
+
+
+                </div>
+            </section>
+
+        </div>
+    </div>
+
+</body>
